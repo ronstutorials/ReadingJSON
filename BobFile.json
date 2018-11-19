@@ -1,0 +1,10 @@
+{
+    "name": "Joe Shmoe",
+    "Age" : 20,
+    "emails" : ["joe@acme.com","joe.shmoe@gmail.com"],
+    "family": {"spouse": "Jane Shmoe",
+     "children": ["Mike Shmoe", "Adam Shmoe"]
+     }
+}
+    
+    
