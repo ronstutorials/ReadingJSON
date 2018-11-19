@@ -11,7 +11,7 @@ public class ReadingJSON {
 
     public static void main(String[] args){
 
-        String first = "/Users/temp/Documents/BobFile.json";
+        String first = "BobFile.json"; // this is the same as:  /Users/temp/IdeaProjects/ReadFromJson/BobFile.json
 
         try {
             String contents = new String((Files.readAllBytes(Paths.get(first))));
